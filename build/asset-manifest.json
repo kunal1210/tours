@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tours.git/static/css/main.f29b22bf.css",
+    "main.js": "/tours.git/static/js/main.0a3ebd10.js",
+    "static/media/loading.gif": "/tours.git/static/media/loading.e043b99229ce6a095069.gif",
+    "index.html": "/tours.git/index.html",
+    "main.f29b22bf.css.map": "/tours.git/static/css/main.f29b22bf.css.map",
+    "main.0a3ebd10.js.map": "/tours.git/static/js/main.0a3ebd10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29b22bf.css",
+    "static/js/main.0a3ebd10.js"
+  ]
+}
