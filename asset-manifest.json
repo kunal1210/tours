@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tours.git/static/css/main.f29b22bf.css",
-    "main.js": "/tours.git/static/js/main.0a3ebd10.js",
-    "static/media/loading.gif": "/tours.git/static/media/loading.e043b99229ce6a095069.gif",
-    "index.html": "/tours.git/index.html",
-    "main.f29b22bf.css.map": "/tours.git/static/css/main.f29b22bf.css.map",
-    "main.0a3ebd10.js.map": "/tours.git/static/js/main.0a3ebd10.js.map"
+    "main.css": "/tours/static/css/main.f29b22bf.css",
+    "main.js": "/tours/static/js/main.41ff1761.js",
+    "static/media/loading.gif": "/tours/static/media/loading.e043b99229ce6a095069.gif",
+    "index.html": "/tours/index.html",
+    "main.f29b22bf.css.map": "/tours/static/css/main.f29b22bf.css.map",
+    "main.41ff1761.js.map": "/tours/static/js/main.41ff1761.js.map"
   },
   "entrypoints": [
     "static/css/main.f29b22bf.css",
-    "static/js/main.0a3ebd10.js"
+    "static/js/main.41ff1761.js"
   ]
 }
